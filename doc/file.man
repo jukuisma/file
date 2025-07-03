@@ -348,7 +348,7 @@ Set various parameter limits.
 .It Li elf_shsize Ta 128MB Ta max ELF section size processed
 .It Li encoding Ta 65K Ta max number of bytes to determine encoding
 .It Li indir Ta 50 Ta recursion limit for indirect magic
-.It Li name Ta 100 Ta use count limit for name/use magic
+.It Li name Ta 150 Ta use count limit for name/use magic
 .It Li regex Ta 8K Ta length limit for regex searches
 .El
 .It Fl r , Fl Fl raw
